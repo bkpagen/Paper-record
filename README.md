@@ -12,4 +12,4 @@
 |**Transformer-based Models**|
 |   Deformable-DETR   | Deformable DETR: Deformable Transformers for End-to-End Object Detection | ICLR | 2021 |[Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) | LUNA16 | 2024.5.23 |
 |   RT-DETR   | RT-DETR: DETRs Beat YOLOs on Real-time Object Detection | CVPR | 2024 |[RT-DETR](https://github.com/lyuwenyu/RT-DETR) | LUNA16 | 2024.2.10 |
-|   RMT   | RMT: Retentive Networks Meet Vision Transformers | CVPR | 2024 |[RT-DETR](https://github.com/qhfan/RMT) | - | 2024.5.10 |
+|   RMT   | RMT: Retentive Networks Meet Vision Transformers | CVPR | 2024 |[RMT](https://github.com/qhfan/RMT) | - | 2024.5.10 |
