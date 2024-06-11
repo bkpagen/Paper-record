@@ -11,6 +11,6 @@
 |   RTMDet   |RTMDet: An Empirical Study of Designing Real-Time Object Detectors | Arxiv | 2023 |[RTMDet](https://github.com/open-mmlab/mmyolo) | LUNA16 | 2024.5.24 |
 |   Deformable-DETR   | Deformable DETR: Deformable Transformers for End-to-End Object Detection | ICLR | 2021 |[Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) | LUNA16 | 2024.5.23 |
 |   RT-DETR   | RT-DETR: DETRs Beat YOLOs on Real-time Object Detection | CVPR | 2024 |[RT-DETR](https://github.com/lyuwenyu/RT-DETR) | LUNA16 | 2024.2.10 |
-|   RMT   | RMT: Retentive Networks Meet Vision Transformers | CVPR | 2024 |MMdetection| - | 2024.5.28 |
-|   DDQ   | Dense Distinct Query for End-to-End Object Detection | CVPR | 2023 |MMdetection| - | 2024.6.2 |
-|   Dino   | RMT: Retentive Networks Meet Vision Transformers | ICLR | 2023 |MMdetection | - | 2024.6.5 |
+|   RMT   | RMT: Retentive Networks Meet Vision Transformers | CVPR | 2024 |MMdetection| LUNA16 | 2024.5.28 |
+|   DDQ   | Dense Distinct Query for End-to-End Object Detection | CVPR | 2023 |MMdetection| LUNA16 | 2024.6.2 |
+|   Dino   | RMT: Retentive Networks Meet Vision Transformers | ICLR | 2023 |MMdetection | LUNA16 | 2024.6.5 |
