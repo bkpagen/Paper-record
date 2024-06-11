@@ -13,4 +13,4 @@
 |   RT-DETR   | RT-DETR: DETRs Beat YOLOs on Real-time Object Detection | CVPR | 2024 |[RT-DETR](https://github.com/lyuwenyu/RT-DETR) | LUNA16 | 2024.2.10 |
 |   RMT   | RMT: Retentive Networks Meet Vision Transformers | CVPR | 2024 |MMdetection| LUNA16 | 2024.5.28 |
 |   DDQ   | Dense Distinct Query for End-to-End Object Detection | CVPR | 2023 |MMdetection| LUNA16 | 2024.6.2 |
-|   Dino   | RMT: Retentive Networks Meet Vision Transformers | ICLR | 2023 |MMdetection | LUNA16 | 2024.6.5 |
+|   Dino   | DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection | ICLR | 2023 |MMdetection | LUNA16 | 2024.6.5 |
